@@ -15,7 +15,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Truck" size={32} className="text-primary" />
-              <span className="text-2xl font-bold text-gray-900">ТрансЛогистик</span>
+              <span className="text-2xl font-bold text-gray-900">Гарант Транс Строй </span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#" className="text-gray-700 hover:text-primary transition-colors">Главная</a>
@@ -318,7 +318,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">О компании ТрансЛогистик</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">О компании Гарант Транс Строй </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Более 15 лет мы обеспечиваем надёжную доставку грузов по всей России. 
                 Наша компания специализируется на комплексных логистических решениях для бизнеса.
