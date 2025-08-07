@@ -273,6 +273,14 @@ const Index = () => {
             </Card>
           </div>
           
+          <div className="mb-12">
+            <img 
+              src="img/a97deab2-1d48-477d-8122-a742f7275e42.jpg" 
+              alt="Склад ТрансЛогистик"
+              className="w-full h-64 object-cover rounded-lg shadow-lg"
+            />
+          </div>
+          
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
               <div className="flex items-center mb-4">
